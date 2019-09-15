@@ -1,0 +1,16 @@
+{
+	"custom-css": "Užívateľské CSS/LESS",
+	"custom-css.description": "Zadajte svoje vlastné definície CSS/LESS, ktoré budú použité nad všetky ostatné štýly.",
+	"custom-css.enable": "Povoliť užívateľský CSS/LESS",
+
+	"custom-js": "Používateľský Javascript",
+	"custom-js.description": "Zadajte tu váš javascriptový kód. Bude spustený, akonáhle sa stránka úplne načíta.",
+	"custom-js.enable": "Povoliť používateľský Javascript",
+
+	"custom-header": "Používateľská hlavička",
+	"custom-header.description": "Sem zadajte používateľské HTML (mimo Meta Tags, atď.), Ktoré bude pripojené k časti značiek <code>&lt;head&gt;</code> vášho fóra. Značky pre 'script' sú povolené, ale neodporúčame ich, lebo je dostupný <a href=\"#custom-header\" data-toggle=\"tab\">Používateľský Javascript</a>.",
+	"custom-header.enable": "Povoliť používateľskú hlavičku",
+
+	"custom-css.livereload": "Povoliť aktuálne znovu načítanie",
+	"custom-css.livereload.description": "Povolením si vynútite, aby všetky relácie na každom zariadení pod Vaším účtom sa kedykoľvek obnovili pri kliknutí na tlačidlo „Uložiť”."
+}

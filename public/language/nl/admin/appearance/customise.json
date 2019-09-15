@@ -1,0 +1,16 @@
+{
+	"custom-css": "Aangepaste CSS/LESS",
+	"custom-css.description": "Voer hier je eigen CSS/LESS regels in. Deze zullen worden toegepast na alle andere stijlen.",
+	"custom-css.enable": "Activeer aangepaste CSS/LESS",
+
+	"custom-js": "Aangepast Javascript",
+	"custom-js.description": "Voer hier je eigen javascript code in. Deze zullen worden uitgevoerd als de pagina volledig is geladen.",
+	"custom-js.enable": "Activeer aangepast javascript",
+
+	"custom-header": "Aangepaste header",
+	"custom-header.description": "Voer hier aangepaste HTML in (bijv. metatags, etc.), die zullen worden toegevoegd aan de <code>&lt;head&gt;</code> sectie van de Forum pagina. Script-tags zijn toegestaan, maar worden afgeraden omdat de <a href=\"#custom-header\" data-toggle=\"tab\">Aangepast Javascript</a> tab daarvoor beschikbaar is.",
+	"custom-header.enable": "Activeer aangepaste header",
+
+	"custom-css.livereload": "Activeer Live Reload",
+	"custom-css.livereload.description": "Activeer dit om alle sessies op elk apparaat ingelogd onder jouw account te verversen elke keer wanneer je op opslaan klikt."
+}

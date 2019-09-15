@@ -1,0 +1,11 @@
+{
+	"chat-settings": "Nastavenia konverzácie",
+	"disable": "Zakázať konverzáciu",
+	"disable-editing": "Zakázať upravenie/odstránenie konverzačnej správy",
+	"disable-editing-help": "Správcovia a globálny moderátori sú vyňatí z tohto obmedzenia",
+	"max-length": "Maximálna dĺžka konverzačnej správy",
+	"max-room-size": "Maximálny počet používateľov v konverzačnej miestnosti",
+	"delay": "Čas medzi konverzačnými správami v milisekundách",
+	"restrictions.seconds-edit-after": "Počet sekúnd než je používateľovi umožnené upraviť správy konverzácie po ich odoslaní. (0 zákaz)",
+	"restrictions.seconds-delete-after": "Počet sekúnd než je užívateľovi umožnené zmazať správy konverzácie po ich odoslaní. (0 zákaz)"
+}

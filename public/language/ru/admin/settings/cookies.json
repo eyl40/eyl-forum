@@ -1,0 +1,11 @@
+{
+	"eu-consent": "Соглашение",
+	"consent.enabled": "Включено",
+	"consent.message": "Уведомление",
+	"consent.acceptance": "Сообщение о принятии",
+	"consent.link-text": "Ссылка на правила",
+	"consent.blank-localised-default": "Оставьте пустым чтобы использовать настройки NodeBB по умолчанию",
+	"settings": "Настройки",
+	"cookie-domain": "Домен для cookie сессии",
+	"blank-default": "Оставьте пустым для настроек по умолчанию"
+}

@@ -1,0 +1,16 @@
+{
+	"custom-css": "Custom CSS/LESS",
+	"custom-css.description": "Enter your own CSS/LESS declarations here, which will be applied after all other styles.",
+	"custom-css.enable": "Enable Custom CSS/LESS",
+
+	"custom-js": "Javascript مخصصة",
+	"custom-js.description": "أدخل Javascript الخاص بك هنا. سيتم تنفيذها بعد تحميل الصفحة بالكامل.",
+	"custom-js.enable": "تفعيل Javascript المخصصة",
+
+	"custom-header": "ترويسة مخصصة",
+	"custom-header.description": "أدخل HTML الخاصة بك هنا (مثل العلامات الوصفية، وما إلى ذلك)، والتي سيتم إلحاقها الى<code>&lt;head&gt;</code> في تصميم المنتدى. يسمح باستخدام علامات النص البرمجي، ولكن سيتم تعطيلها؛ لتوفر تبويبة\n<a href=\"#custom-header\" data-toggle=\"tab\">Javascript المخصصة</a>",
+	"custom-header.enable": "تفعيل الترويسة المخصصة",
+
+	"custom-css.livereload": "تفعيل إعادة التحميل المباشرة",
+	"custom-css.livereload.description": "فعل هذا الخيار لإجبار جميع الجلسات في الأجهزة التي قمت بتسجيل الدخول فيها  بحسابك على التحديث عند النقر على زر الحفظ"
+}
